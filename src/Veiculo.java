@@ -8,7 +8,7 @@ public class  Veiculo {
         return "vruuuuuuummm";
     }
     public String freiar(){
-        return "firifrifir";
+        return "firifrifir ";
     }
 
     public Veiculo(String cor, String marca, String modelo) {
